@@ -69,7 +69,8 @@ The queries are grouped by theme (revenue, churn, customers, products, etc.).
 ## 🔗 Full Project Write-Up
 
 Full explanations, breakdowns, and portfolio version:  
-[👉 **[View the full project on my Notion Portfolio](YOUR_NOTION_LINK_HERE)**](https://www.notion.so/Advanced-Business-Analytics-with-SQL-WideWorldImporters-Project-2c3388b7f1a68030ad55f210e8eab2b7)
+[👉 **[View full project on my Notion Portfolio](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link)
+**]
 
 ---
 
